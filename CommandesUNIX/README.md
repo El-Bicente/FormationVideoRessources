@@ -12,3 +12,6 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |echo|Afficher du texte|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |file|Déterminer le type d'un fichier|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |ls|Lister (afficher) le contenu d'un répertoire|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|man|Afficher le manuel d'une commande/fonction|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|mv|Déplacer ou renommer un fichier|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|pwd|Récuper le nom du répertoire courant|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
