@@ -1,6 +1,6 @@
 # Commandes UNIX
 
-Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97).
+Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97).<br>
 
 |NOM DE LA COMMANDE|DESCRIPTION DE LA COMMANDE|
 |:--|:--|
@@ -11,3 +11,4 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |dash|Lancer un shell **Dash** (BSD) ; alias : sh|
 |echo|Afficher du texte|
 |file|Déterminer le type d'un fichier|
+[ls|Lister (afficher) le contenu d'un répertoire|
