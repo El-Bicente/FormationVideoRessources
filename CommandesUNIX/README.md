@@ -13,6 +13,6 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**file**|Déterminer le type d'un fichier|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**ls**|Lister (afficher) le contenu d'un répertoire|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**man**|Afficher le manuel d'une commande/fonction|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**mv**|Déplacer ou renommer un fichier|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**mv**|Déplacer ou renommer un fichier|[S13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|[S21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
 |**pwd**|Récupérer le nom du répertoire courant|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
