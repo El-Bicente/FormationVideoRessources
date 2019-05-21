@@ -3,7 +3,7 @@
 Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97).<br>
 
 |NOM|DESCRIPTION|RÉFÉRENCES AU COURS (SÉANCES)|
-|:--|:--|
+|:--|:--|:--:|
 |apropos|Chercher le nom et la description des pages de manuel|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |bash|Lancer un shell **Bash** (Bourne-Again)|[S11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
 |cd|Changer de répertoire|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
