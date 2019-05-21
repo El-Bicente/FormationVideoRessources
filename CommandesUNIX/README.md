@@ -11,4 +11,4 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |dash|Lancer un shell **Dash** (BSD) ; alias : sh|
 |echo|Afficher du texte|
 |file|Déterminer le type d'un fichier|
-[ls|Lister (afficher) le contenu d'un répertoire|
+|ls|Lister (afficher) le contenu d'un répertoire|
