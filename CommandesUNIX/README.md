@@ -4,4 +4,5 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 
 |NOM|OPTIONS|DESCRIPTION|
 |:--|:--|:--|
-|bash|-|Lancer un shell **Bash**|
+|bash|-|Lancer un shell **Bash** (Bourne-Again)|
+|dash|-|Lancer un shell **Dash** (BSD)<br>Alias : sh|
