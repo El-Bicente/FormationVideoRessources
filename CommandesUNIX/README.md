@@ -60,7 +60,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**sort**|Trier les lignes d'un fichier texte|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**su**|Executer un shell avec un User-ID et un Group-ID différents (_ex : root_)|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
 |**tar**|Utilitaire GNU de gestion d'archives TAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
-|**top**|Lister les processus (mis à jour)|[#22](https://www.youtube.com/watch?v=noGCntpmYpk)|
+|**top**|Lister les processus (_avec mise à jour toutes les X secondes_)|[#22](https://www.youtube.com/watch?v=noGCntpmYpk)|
 |**touch**|Modifier l'horodatage d'un fichier (_peut aussi en créer_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**uniq**|Éliminer les lignes dupliquées dans un fichier trié|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**unmount**|Démonter des systèmes de fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
