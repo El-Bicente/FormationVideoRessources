@@ -33,6 +33,8 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**gunzip**|Décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**gzip**|Compacter ou décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**history**|Lister les commandes précédemment saisies dans le terminal|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
+|**kill**|Envoyer un signal à un processus|[#23](https://www.youtube.com/watch?v=hJ0f1Pd-v2Y)|
+|**killall**|Envoyer un signal à des processus indiqués par leurs noms|[#23](https://www.youtube.com/watch?v=hJ0f1Pd-v2Y)|
 |**locate**|Rechercher des fichiers dans une hiérarchie de répertoires|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**ls**|Lister (afficher) le contenu d'un répertoire|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**man**|Afficher le manuel d'une commande/fonction|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
@@ -49,6 +51,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**rm**|Effacer des fichiers (_ou répertoires contenant des fichiers_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**rmdir**|Effacer des répertoires vides|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**sh**|_voir commande “dash”_|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
+|**sleep**|Endormir le processus pour une durée déterminée|[#23](https://www.youtube.com/watch?v=hJ0f1Pd-v2Y)|
 |**sort**|Trier les lignes d'un fichier texte|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**su**|Executer un shell avec un User-ID et un Group-ID différents (_ex : root_)|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
 |**tar**|Utilitaire GNU de gestion d'archives TAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
