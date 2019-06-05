@@ -19,7 +19,10 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**cp**|Copier des fichiers et des répertoires|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**cut**|Supprimer une partie de chaque ligne d'un fichier|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
+|**diff**|Trouver les différences entre des fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
+|**du**|Afficher les statistiques sur l'utilisation du disque|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**echo**|Afficher du texte|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**fdisk**|Manipuler des tables de partitions|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**file**|Déterminer le type d'un fichier|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**find**|Rechercher des fichiers dans une hiérarchie de répertoires|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**grep**|Afficher les lignes correspondant à un motif donné|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
@@ -30,9 +33,12 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**ls**|Lister (afficher) le contenu d'un répertoire|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**man**|Afficher le manuel d'une commande/fonction|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**mkdir**|Créer des répertoires|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
+|**mkfs**|Créér un système de fichiers (_peut aussi formater un périphérique de stockage_)|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
+|**mount**|Monter un système de fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**mv**|Déplacer ou renommer un fichier|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|[#21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
 |**pwd**|Récupérer le nom du répertoire courant|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**quota**|Afficher l'utilisation du disque et les quotas|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**rar**|Créer et compresser des archives RAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**rm**|Effacer des fichiers (_ou répertoires contenant des fichiers_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**rmdir**|Effacer des répertoires vides|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
@@ -42,6 +48,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**tar**|Utilitaire GNU de gestion d'archives TAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**touch**|Modifier l'horodatage d'un fichier (_peut aussi en créer_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**uniq**|Éliminer les lignes dupliquées dans un fichier trié|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
+|**unmount**|Démonter des systèmes de fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**unrar**|Extraire des fichiers compressés dans une archive RAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**unzip**|Lister, tester et extraire des fichiers compressés dans une archive ZIP|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**wc**|Afficher le nombre d'octets, de mots et de lignes d'un fichier|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
