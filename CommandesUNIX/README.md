@@ -11,11 +11,14 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**bash**|Lancer un shell **Bash** (Bourne-Again)|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
 |**cat**|Concaténer des fichiers et les afficher sur la sortie standard|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**cd**|Changer de répertoire|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**chmod**|Modifier les autorisations d'accès à un fichier|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
+|**chmown**|Modifier le propriétaire et le groupe d'un fichier|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
 |**clear**|Effacer le terminal|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**cp**|Copier des fichiers et des répertoires|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
 |**echo**|Afficher du texte|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**file**|Déterminer le type d'un fichier|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**history**|Lister les commandes précédemment saisies dans le terminal|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
 |**ls**|Lister (afficher) le contenu d'un répertoire|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**man**|Afficher le manuel d'une commande/fonction|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**mkdir**|Créer des répertoires|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
@@ -25,4 +28,5 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**rm**|Effacer des fichiers (_ou répertoires contenant des fichiers_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**rmdir**|Effacer des répertoires vides|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**sh**|_voir commande “dash”_|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
+|**su**|Executer un shell avec un User-ID et un Group-ID différents (_ex : root_)|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
 |**touch**|Modifier l'horodatage d'un fichier (_peut aussi en créer_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
