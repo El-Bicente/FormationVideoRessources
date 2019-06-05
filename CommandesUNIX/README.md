@@ -19,3 +19,4 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**mv**|Déplacer ou renommer un fichier|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|[#21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
 |**pwd**|Récupérer le nom du répertoire courant|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**sh**|_voir commande “dash”_|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
