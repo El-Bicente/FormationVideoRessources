@@ -5,7 +5,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 > ❌ Tableau incomplet
 
 
-|NOM|DESCRIPTION|N° SÉANCE GNU/LINUX|
+|NOM|DESCRIPTION|N° SÉANCE|
 |:--|:--|:--:|
 |**apropos**|Chercher le nom et la description des pages de manuel|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**bash**|Lancer un shell **Bash** (Bourne-Again)|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
@@ -18,8 +18,11 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**file**|Déterminer le type d'un fichier|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**ls**|Lister (afficher) le contenu d'un répertoire|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**man**|Afficher le manuel d'une commande/fonction|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**mkdir**|Créer des répertoires|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**mv**|Déplacer ou renommer un fichier|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|[#21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
 |**pwd**|Récupérer le nom du répertoire courant|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**rm**|Effacer des fichiers (_ou répertoires contenant des fichiers_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
+|**rmdir**|Effacer des répertoires vides|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**sh**|_voir commande “dash”_|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
 |**touch**|Modifier l'horodatage d'un fichier (_peut aussi en créer_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
