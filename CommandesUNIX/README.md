@@ -2,9 +2,6 @@
 
 Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97).
 
-> ❌ Tableau incomplet
-
-
 |NOM|DESCRIPTION|N° SÉANCE|
 |:--|:--|:--:|
 |**apropos**|Chercher le nom et la description des pages de manuel|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
