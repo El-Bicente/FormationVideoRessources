@@ -7,15 +7,15 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 
 |NOM|DESCRIPTION|RÉFÉRENCE AU COURS (SÉANCE)|
 |:--|:--|:--:|
-|**apropos**|Chercher le nom et la description des pages de manuel|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**bash**|Lancer un shell **Bash** (Bourne-Again)|[S11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
-|**cd**|Changer de répertoire|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**clear**|Effacer le terminal|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|[S11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
-|**echo**|Afficher du texte|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**file**|Déterminer le type d'un fichier|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**ls**|Lister (afficher) le contenu d'un répertoire|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**man**|Afficher le manuel d'une commande/fonction|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**mv**|Déplacer ou renommer un fichier|[S13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
-|**nano**|Lancer l'éditeur en ligne de commande **Nano**|[S21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
-|**pwd**|Récupérer le nom du répertoire courant|[S12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**apropos**|Chercher le nom et la description des pages de manuel|[GNU/Linux #12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**bash**|Lancer un shell **Bash** (Bourne-Again)|[GNU/Linux #11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
+|**cd**|Changer de répertoire|[GNU/Linux #12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**clear**|Effacer le terminal|[GNU/Linux #12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|[GNU/Linux #11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
+|**echo**|Afficher du texte|[GNU/Linux #12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**file**|Déterminer le type d'un fichier|[GNU/Linux #12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**ls**|Lister (afficher) le contenu d'un répertoire|[GNU/Linux #12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**man**|Afficher le manuel d'une commande/fonction|[GNU/Linux #12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**mv**|Déplacer ou renommer un fichier|[GNU/Linux #13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
+|**nano**|Lancer l'éditeur en ligne de commande **Nano**|[GNU/Linux #21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
+|**pwd**|Récupérer le nom du répertoire courant|[GNU/Linux #12](https://www.youtube.com/watch?v=9xpItgaWVso)|
