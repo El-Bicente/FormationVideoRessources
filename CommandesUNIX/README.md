@@ -2,6 +2,8 @@
 
 Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97).
 
+> ❌ Tableau incomplet
+
 
 |NOM|DESCRIPTION|RÉFÉRENCE AU COURS (SÉANCE)|
 |:--|:--|:--:|
