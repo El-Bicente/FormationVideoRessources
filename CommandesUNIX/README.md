@@ -9,6 +9,8 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |:--|:--|:--:|
 |**apropos**|Chercher le nom et la description des pages de manuel|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**bash**|Lancer un shell **Bash** (Bourne-Again)|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
+|**bunzip2**|Décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
+|**bzip2**|Compacter ou décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**cat**|Concaténer des fichiers et les afficher sur la sortie standard|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**cd**|Changer de répertoire|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**chmod**|Modifier les autorisations d'accès à un fichier|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
@@ -21,6 +23,8 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**file**|Déterminer le type d'un fichier|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**find**|Rechercher des fichiers dans une hiérarchie de répertoires|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**grep**|Afficher les lignes correspondant à un motif donné|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
+|**gunzip**|Décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
+|**gzip**|Compacter ou décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**history**|Lister les commandes précédemment saisies dans le terminal|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
 |**locate**|Rechercher des fichiers dans une hiérarchie de répertoires|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**ls**|Lister (afficher) le contenu d'un répertoire|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
@@ -29,12 +33,17 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**mv**|Déplacer ou renommer un fichier|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|[#21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
 |**pwd**|Récupérer le nom du répertoire courant|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**rar**|Créer et compresser des archives RAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**rm**|Effacer des fichiers (_ou répertoires contenant des fichiers_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**rmdir**|Effacer des répertoires vides|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**sh**|_voir commande “dash”_|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
 |**sort**|Trier les lignes d'un fichier texte|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**su**|Executer un shell avec un User-ID et un Group-ID différents (_ex : root_)|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
+|**tar**|Utilitaire GNU de gestion d'archives TAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**touch**|Modifier l'horodatage d'un fichier (_peut aussi en créer_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**uniq**|Éliminer les lignes dupliquées dans un fichier trié|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
+|**unrar**|Extraire des fichiers compressés dans une archive RAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
+|**unzip**|Lister, tester et extraire des fichiers compressés dans une archive ZIP|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**wc**|Afficher le nombre d'octets, de mots et de lignes d'un fichier|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**whereis**|Rechercher les fichiers exécutables, les sources et les pages de manuel d'une commande|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
+|**zip**|Créer et compresser des archives ZIP|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
