@@ -8,6 +8,9 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |NOM|DESCRIPTION|N° SÉANCE|
 |:--|:--|:--:|
 |**apropos**|Chercher le nom et la description des pages de manuel|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
+|**apt**|Utilitaire d'APT pour la manipulation de paquets|[#20](https://www.youtube.com/watch?v=WHCb06mDPXI)|
+|**apt-get**|Utilitaire d'APT pour la manipulation de paquets|[#20](https://www.youtube.com/watch?v=WHCb06mDPXI)|
+|**aptitude**|Interface haut-niveau de gestion de paquets|[#20](https://www.youtube.com/watch?v=WHCb06mDPXI)|
 |**bash**|Lancer un shell **Bash** (Bourne-Again)|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
 |**bunzip2**|Décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**bzip2**|Compacter ou décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
@@ -20,6 +23,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**cut**|Supprimer une partie de chaque ligne d'un fichier|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
 |**diff**|Trouver les différences entre des fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
+|**dpkg**|Gérer des paquets DEB|[#20](https://www.youtube.com/watch?v=WHCb06mDPXI)|
 |**du**|Afficher les statistiques sur l'utilisation du disque|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**echo**|Afficher du texte|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**fdisk**|Manipuler des tables de partitions|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
@@ -37,6 +41,8 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**mount**|Monter un système de fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**mv**|Déplacer ou renommer un fichier|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|[#21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
+|**nohup**|Exécuter un programme en le rendant insensible aux déconnexions|[#22](https://www.youtube.com/watch?v=noGCntpmYpk)|
+|**ps**|Afficher l'état des processus en cours|[#22](https://www.youtube.com/watch?v=noGCntpmYpk)|
 |**pwd**|Récupérer le nom du répertoire courant|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**quota**|Afficher l'utilisation du disque et les quotas|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**rar**|Créer et compresser des archives RAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
@@ -46,6 +52,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**sort**|Trier les lignes d'un fichier texte|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**su**|Executer un shell avec un User-ID et un Group-ID différents (_ex : root_)|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
 |**tar**|Utilitaire GNU de gestion d'archives TAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
+|**top**|Lister les processus (mis à jour)|[#22](https://www.youtube.com/watch?v=noGCntpmYpk)|
 |**touch**|Modifier l'horodatage d'un fichier (_peut aussi en créer_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**uniq**|Éliminer les lignes dupliquées dans un fichier trié|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**unmount**|Démonter des systèmes de fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
