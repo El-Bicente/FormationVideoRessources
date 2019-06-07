@@ -2,4 +2,4 @@
 
 Description des ressources disponibles pour GNU/Linux :
 
-+ **CommandesUNIX** : Tableau récapitulatif de toutes les commandes abordées dans le cours, et le numéro de la séance associée.
++ **CommandesUNIX** : Liste des commandes abordées dans le cours, et séance associée à chacune.
