@@ -7,7 +7,7 @@
 */
 
 $data = 'game/the-legend-of-zelda/8';
-$regex = '#game\/[a-zA-Z0-9-_]+\/[0-9]+#siU';
+$regex = '#game\/[a-z0-9-_]+\/[0-9]+#siU';
 
 if(preg_match($regex, $data))
 	echo 'OUI';
