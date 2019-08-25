@@ -4,6 +4,6 @@ Pour fonctionner correctement, certains logiciels et jeux vidéo sur Windows dem
 
 ## 2019, 2017 et 2015
 
-> 32 bits (x86) : [vc_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)
-> 64 bits (x64) : [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)
-> ARM 64 bits (ARM64) : [VC_redist.arm64.exe](https://aka.ms/vs/16/release/VC_redist.arm64.exe)
++ 32 bits (x86) : [vc_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)
++ 64 bits (x64) : [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)
++ ARM 64 bits (ARM64) : [VC_redist.arm64.exe](https://aka.ms/vs/16/release/VC_redist.arm64.exe)
