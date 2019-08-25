@@ -12,7 +12,7 @@ Pour fonctionner correctement, certains logiciels et jeux vidéo sur Windows dem
 
 ## Visual C++ 2013 (12.0)
 
-En cours...
++ Update 5 : [lien](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package)
 
 ## Visual C++ 2012 (11.0)
 
@@ -20,7 +20,7 @@ En cours...
 
 ## Visual C++ 2010 (10.0)
 
-En cours...
++ Service Pack 1 : [lien](https://www.microsoft.com/fr-fr/download/details.aspx?id=26999)
 
 ## Visual C++ 2008 (9.0)
 
