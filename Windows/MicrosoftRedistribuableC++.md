@@ -6,9 +6,9 @@ Pour fonctionner correctement, certains logiciels et jeux vidéo sur Windows dem
 
 ## Visual C++ 2019 (14.2), 2017 (14.1) et 2015 (14.0) tout-en-un
 
-+ 32 bits (x86) : [vc_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)
-+ 64 bits (x64) : [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)
-+ ARM 64 bits (ARM64) : [VC_redist.arm64.exe](https://aka.ms/vs/16/release/VC_redist.arm64.exe)
++ 32 bits (x86) : [lien](https://aka.ms/vs/16/release/vc_redist.x86.exe)
++ 64 bits (x64) : [lien](https://aka.ms/vs/16/release/vc_redist.x64.exe)
++ ARM 64 bits (ARM64) : [lien](https://aka.ms/vs/16/release/VC_redist.arm64.exe)
 
 ## Visual C++ 2013 (12.0)
 
@@ -24,7 +24,7 @@ En cours...
 
 ## Visual C++ 2008 (9.0)
 
-En cours...
++ Service Pack 1 : [lien](https://www.microsoft.com/fr-fr/download/details.aspx?id=26368)
 
 ## Visual C++ 2005 (8.0)
 
