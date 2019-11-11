@@ -34,6 +34,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**fg**|Basculer une tâche au premier-plan (_devient la tâche en cours_)|[#24](https://www.youtube.com/watch?v=kdGaurPWL10)|
 |**file**|Déterminer le type d'un fichier|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**find**|Rechercher des fichiers dans une hiérarchie de répertoires|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
+|**free**|Afficher la quantité de mémoire libre et utilisée par le système|-|
 |**grep**|Afficher les lignes correspondant à un motif donné|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**gunzip**|Décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**gzip**|Compacter ou décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
