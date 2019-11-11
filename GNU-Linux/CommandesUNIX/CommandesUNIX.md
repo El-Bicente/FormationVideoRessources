@@ -63,7 +63,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**top**|Lister les processus (_avec mise à jour toutes les X secondes_)|[#22](https://www.youtube.com/watch?v=noGCntpmYpk)|
 |**touch**|Modifier l'horodatage d'un fichier (_peut aussi en créer_)|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**uniq**|Éliminer les lignes dupliquées dans un fichier trié|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
-|**unmount**|Démonter des systèmes de fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
+|**umount**|Démonter des systèmes de fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**unrar**|Extraire des fichiers compressés dans une archive RAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**unzip**|Lister, tester et extraire des fichiers compressés dans une archive ZIP|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**wc**|Afficher le nombre d'octets, de mots et de lignes d'un fichier|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
