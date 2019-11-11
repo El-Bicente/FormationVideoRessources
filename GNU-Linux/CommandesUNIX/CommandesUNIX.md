@@ -68,6 +68,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**umount**|Démonter des systèmes de fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**unrar**|Extraire des fichiers compressés dans une archive RAR|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**unzip**|Lister, tester et extraire des fichiers compressés dans une archive ZIP|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
+|**uptime**|Afficher le temps depuis lequel la machine est démarrée|-|
 |**wc**|Afficher le nombre d'octets, de mots et de lignes d'un fichier|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**whereis**|Rechercher les fichiers exécutables, les sources et les pages de manuel d'une commande|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**zip**|Créer et compresser des archives ZIP|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
