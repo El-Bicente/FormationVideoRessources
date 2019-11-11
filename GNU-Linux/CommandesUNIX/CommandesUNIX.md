@@ -25,6 +25,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**cut**|Supprimer une partie de chaque ligne d'un fichier|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
 |**date**|Afficher ou configurer la date et l'heure du système|[#24](https://www.youtube.com/watch?v=kdGaurPWL10)|
+|**df**|Afficher la quantité d'espace occupé par les systèmes de fichiers|-|
 |**diff**|Trouver les différences entre des fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**dpkg**|Gérer des paquets DEB|[#20](https://www.youtube.com/watch?v=WHCb06mDPXI)|
 |**du**|Afficher les statistiques sur l'utilisation du disque|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
