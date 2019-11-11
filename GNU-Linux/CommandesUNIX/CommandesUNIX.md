@@ -1,6 +1,6 @@
 # Commandes UNIX
 
-Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97).
+Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97), et d'autres qui sont utiles à connaître :
 
 |NOM|DESCRIPTION|N° SÉANCE|
 |:--|:--|:--:|
@@ -40,11 +40,13 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|[#24](https://www.youtube.com/watch?v=kdGaurPWL10)|
 |**kill**|Envoyer un signal à un processus|[#23](https://www.youtube.com/watch?v=hJ0f1Pd-v2Y)|
 |**killall**|Envoyer un signal à des processus indiqués par leurs noms|[#23](https://www.youtube.com/watch?v=hJ0f1Pd-v2Y)|
+|**less**|Se déplacer dans un texte, même volumineux (plus flexible que la commande **more**)|-|
 |**locate**|Rechercher des fichiers dans une hiérarchie de répertoires|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**ls**|Lister (afficher) le contenu d'un répertoire|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**man**|Afficher le manuel d'une commande/fonction|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**mkdir**|Créer des répertoires|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**mkfs**|Créér un système de fichiers (_peut aussi formater un périphérique de stockage_)|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
+|**more**|Se déplacer dans un texte, écran par écran|-|
 |**mount**|Monter un système de fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
 |**mv**|Déplacer ou renommer un fichier|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|[#21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
