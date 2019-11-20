@@ -38,12 +38,15 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**fg**|Basculer une tâche au premier-plan (_devient la tâche en cours_)|[#24](https://www.youtube.com/watch?v=kdGaurPWL10)|
 |**file**|Déterminer le type d'un fichier|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**find**|Rechercher des fichiers dans une hiérarchie de répertoires|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
+|**finger**|Rechercher des informations sur un utilisateur|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |**free**|Afficher la quantité de mémoire libre et utilisée par le système|-|
 |**grep**|Afficher les lignes correspondant à un motif donné|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**groups**|Afficher les groupes d'un utilisateur|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
 |**gunzip**|Décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**gzip**|Compacter ou décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
 |**history**|Lister les commandes précédemment saisies dans le terminal|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
+|**host**|Chercher des noms de machine à l'aide d'un serveur de domaine|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
+|**hostname**|Afficher le nom d'hôte du système|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |**id**|Afficher les UIDs et GIDs d'un utilisateur|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|[#24](https://www.youtube.com/watch?v=kdGaurPWL10)|
 |**kill**|Envoyer un signal à un processus|[#23](https://www.youtube.com/watch?v=hJ0f1Pd-v2Y)|
@@ -84,6 +87,8 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**users**|Afficher les utilisateurs connectés|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
 |**w**|Afficher les utilisateurs connectés et leur activité|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
 |**wc**|Afficher le nombre d'octets, de mots et de lignes d'un fichier|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
+|**wget**|Télécharger un fichier depuis le Web|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |**whereis**|Rechercher les fichiers exécutables, les sources et les pages de manuel d'une commande|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
 |**who**|Afficher les informations d'un utilisateur|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
+|**whois**|Afficher les informations d'un domaine|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |**zip**|Créer et compresser des archives ZIP|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
